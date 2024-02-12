@@ -45,6 +45,6 @@ disabled_commands:
 - disabledcommandhere
 servers:
   lobby:
-    motd: '&1Just another Waterfall - Forced Host'
+    motd: '&r&e&4Fire Client&r&r&f - &r&aSurvival, PvP, and More! &r&7'
     address: localhost:25565
     restricted: false
